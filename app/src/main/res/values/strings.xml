@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BrainTraning</string>
+    <string name="save">Сохранить</string>
+    <string name="get">Получить исключение</string>
+</resources>
